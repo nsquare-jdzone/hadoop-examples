@@ -1,4 +1,4 @@
-# Hadoop Examples
+![Hadoop Examples](https://hadoop.apache.org/hadoop-logo.jpg)
 ## Map Reduce Examples
 - [Hadoop Custom Key Writable Example](https://javadeveloperzone.com/hadoop/hadoop-create-custom-key-writable-example/)
 - [Hadoop Custom Value Writable Example](https://javadeveloperzone.com/hadoop/hadoop-create-custom-value-writable-example/)
